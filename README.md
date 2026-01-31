@@ -1,16 +1,20 @@
-## Hi there 👋
+# Tech Enthusiast
 
-<!--
-**anacarolinealvz/anacarolinealvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi! Eu sou a Caroline 👋  
+Apaixonada por tecnologia, café, gatinhos e por resolver problemas que ninguém quer pegar
 
-Here are some ideas to get you started:
+💻 Atualmente focada em:
+- Linux & Docker
+- DevOps (na prática, quebrando e consertando)
+- Monitoramento e automações
+- APIs e Back-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Aqui você vai encontrar:
+- Projetos de estudo
+- Testes, automações e experimentos
+- Coisas que funcionaram (e algumas que não 😅)
+
+📌 Sempre aberta a aprender, errar e melhorar.
+
+> “Aprender tecnologia é um processo contínuo — e eu curto cada parte dele.”
+
